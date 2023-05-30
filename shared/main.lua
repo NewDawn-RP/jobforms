@@ -3,13 +3,13 @@ Config = {}
 Config.UseTarget = false -- ox target support
 
 -- Discord Log Settings
-Config.ServerName = "Example Roleplay"
-Config.FooterText = "Mycroft | Job Forms | "
+Config.ServerName = "New Dawn RP"
+Config.FooterText = " | Formulaire Entreprise | "
 Config.FooterIconURL = ""
 Config.ShowTime = true -- shows date in the footer
 Config.ChangeBoolsToStrings = true -- changes True/False to Yes/No
 Config.MakeAnswersBold = true
-Config.BotUsername = "Job Form Bot"
+Config.BotUsername = "Formulaire Entreprise"
 Config.BotAvatar = "https://cdn.discordapp.com/emojis/939245183621558362.webp?size=128&quality=lossless"
 Config.AuthorAvatar = "https://cdn.discordapp.com/emojis/939245183621558362.webp?size=128&quality=lossless"
 
@@ -34,7 +34,7 @@ Config.AuthorAvatar = "https://cdn.discordapp.com/emojis/939245183621558362.webp
 
 Config.Areas = {
     {
-        label = "Police Application",
+        label = "Candidatures SAPD",
         webhook = "police", -- note if not present, it will send to "default"
         Coords = vector3(441.5298, -981.1339, 30.6896),
         Blip = {
@@ -56,7 +56,7 @@ Config.Areas = {
             type = 21,
             Distance = 10.0,
             colour = {r = 50, g = 200, b = 50, a = 200},
-            TextUI = "[E] -> Police Applications"
+            TextUI = "[E] -> Candidatures SAPD"
         },
         Questions = {
             {
