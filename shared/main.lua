@@ -36,7 +36,7 @@ Config.Areas = {
     {
         label = "Candidatures SAPD",
         webhook = "police", -- note if not present, it will send to "default"
-        Coords = vector3(-376.6742, -353.1513, 31.6548),
+        Coords = vector3(436.6418, -985.1315, 31.0261),
         Blip = {
             enabled = true,
             sprite = 525,
