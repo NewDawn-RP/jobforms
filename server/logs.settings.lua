@@ -2,7 +2,7 @@ DiscordLogs = {
     Webhooks = {
         default = '',
         police = "https://discord.com/api/webhooks/1168650602037923951/9IwmzSzaHBnGXiXjwmt1EabJBkJqIm0PnBbN9ma1GxnmhqEzwOvBD_JU0Et3LPTvG7Mu",
-        ems = "https://discord.com/api/webhooks/1118983031198331041/hIVfX9Fqv5TaIDvH96x0aw2ChEE76J7bL3Ebaqg7JVhoxQwfrT8QcW4gsinGrHqAH_vX",
+        ems = "https://discord.com/api/webhooks/1191551198331928737/TWrMGXMlg5-FkKkHg07-AkY85FcE-8loXHL1YEqyB_xYLQCd93vtl6ptn3QUf5encRrN",
     },
 
     Colors = { -- https://www.spycolor.com/
